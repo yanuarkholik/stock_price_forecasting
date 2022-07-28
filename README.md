@@ -16,7 +16,7 @@ Distribusi leukoptik dan kurtosis yang tinggi (kurtosis=26), hal ini dikarenakan
 
 Distribusi data setelah perghapusan outlier.
 
-Masih terdapat sedikit outlier yang tersisa namun tidak terlalu berpengaruh terhadap kurtosis (kurotosis=0.75).
+Masih terdapat sedikit outlier yang tersisa namun tidak terlalu berpengaruh terhadap kurtosis (kurtosis=0.75).
 
 ## Hasil
 | | LGBM | CatBoost | XGBoost | 
