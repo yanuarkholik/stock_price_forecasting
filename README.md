@@ -19,8 +19,8 @@ Distribusi data setelah perghapusan outlier.
 Masih terdapat sedikit outlier yang tersisa namun tidak terlalu berpengaruh terhadap kurtosis (kurtosis=0.75).
 
 ## Hasil
-| | LGBM | CatBoost | XGBoost | 
-| ----------- | ----------- | ----------- | ----------- |
-| RMSE | 0.02599 | 0.030027 | 0.030026 | 
-| MAE | 0.02158 | 0.02441 | 0.02441 |
-| sMAPE | 145.82 | 149.47| 149.65 |
+| | LGBM | CatBoost | XGBoost | XGBoost | 
+| ----------- | ----------- | ----------- | ----------- | ----------- |
+| RMSE | 0.02146372 | 0.02199241 | 0.02358144 | 0.02461688 |
+| MAE | 0.01766085 | 0.01798853 | 0.01907474 | 0.01971107 |
+| MedAE | 0.02146372 | 0.01598038| 0.01609378 | 0.01647343 |
